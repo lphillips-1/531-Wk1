@@ -153,21 +153,3 @@ Low-fidelity sketches and diagrams illustrate:
 * Safer walking on non-track surfaces
 * Spike coverage and transition behavior
 * Sensor placement and pressure systems
-
-(Images included in repository.)
-
----
-
-## Status
-
-This submission documents the object, use scenario, identified gaps, redesign rationale, social considerations, and tradeoff analysis in alignment with the course rubric.
-
----
-
-If you want, I can now:
-
-* Cross-check this against a **specific rubric line-by-line**
-* Reduce it further to a **one-page submission**
-* Help you write a **short reflection or conclusion section**
-
-If you have the rubric text, paste it and I will align this exactly.
