@@ -153,3 +153,5 @@ Low-fidelity sketches and diagrams illustrate:
 * Safer walking on non-track surfaces
 * Spike coverage and transition behavior
 * Sensor placement and pressure systems
+<img width="774" height="1080" alt="1234" src="https://github.com/user-attachments/assets/d5af20d4-cfac-41bc-92e0-263baaeebac1" />
+
