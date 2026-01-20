@@ -38,37 +38,28 @@ Athletes frequently wear spikes:
 
 ## Identified Gaps
 
-### Environmental Gap
+### 1. Environmental Gap
 
-Spikes are only meant for track material, yet athletes must cross concrete and metal stairs. The shoe lacks awareness of this environment.
+Spikes are only meant for track material, yet athletes must cross concrete and metal stairs. The shoe lacks awareness of this environment. Spikes are awkward to walk in and difficult to communicate to non-runners due to their sport-specific form.
 
 ---
 
-### User & Safety Gap
+## 1.1 Visual Documentation of Environmental Gap
+
+**Spikes on Concrete**
+[https://www.tiktok.com/@trackspikes_co/video/7484076527886421291](https://www.tiktok.com/@trackspikes_co/video/7484076527886421291)
+
+---
+
+### 2. User & Safety Gap
 
 Young athletes are not to be trusted with sharp objects. Current designs expose metal spikes in shared spaces and rely on responsible behavior rather than built-in safety.
 
 ---
 
-### Communication Gap
+### 3. Communication Gap
 
 The status of spike “health” is difficult to identify when spikes are marginally worn, leading to delayed replacement and unclear performance loss.
-
----
-
-### Usability Gap
-
-Spikes are awkward to walk in and difficult to communicate to non-runners due to their sport-specific form.
-
----
-
-## Visual Documentation of Gaps
-
-**Spikes on Concrete**
-[https://www.tiktok.com/@trackspikes_co/video/7484076527886421291](https://www.tiktok.com/@trackspikes_co/video/7484076527886421291)
-
-**People Running in Spikes**
-[https://www.outsideonline.com/wp-content/uploads/2022/04/track-spikes-race-2021_s.jpg](https://www.outsideonline.com/wp-content/uploads/2022/04/track-spikes-race-2021_s.jpg)
 
 ---
 
@@ -118,31 +109,25 @@ These were not addressed because comfort improvements are assumed to be handled 
 
 ### Proposed Features
 
-* Pressure sensors to detect uneven pressure
-* Bubble inflation and deflation to distribute pressure evenly
+* Pressure sensors to detect uneven pressure, force output, evenness, and force depletion
 * Accelerometers to track sprint speed
-* Pressure sensors in both shoes to track force output, evenness, and force depletion
 * App pairing for predictive models and race recommendations
+* Machine learning is used because performance patterns and force depletion vary by athlete and event and cannot be effectively captured with threshold-based logic
+* Spike covering to allow for increased mobiliy off of the track
 
-Machine learning is used because performance patterns and force depletion vary by athlete and event and cannot be effectively captured with threshold-based logic.
 
 ---
 
 ## Social Considerations
 
 * Requires new behavior of checking an app
-* Otherwise use remains the same
-* Invisible and non-performative
-* Minimal social cost unless governing bodies restrict tracking technology
+* Invisible and non-performative therefore we expect minimal social cost unless governing bodies restrict tracking technology
 
 ---
 
 ## Tradeoff Analysis
 
-* Introduces new complexity and failure modes
-* Track spikes do not typically include digital technology
-
-Risks include sensor failure, power management, and durability issues, which are accepted to address safety and usability gaps.
+* Introduces new complexity and failure modes - risks include sensor failure, power management, and durability issues, which are accepted to address safety and usability gaps.
 
 ---
 
